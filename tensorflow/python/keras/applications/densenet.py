@@ -19,10 +19,6 @@ Reference:
   - [Densely Connected Convolutional Networks](
       https://arxiv.org/abs/1608.06993) (CVPR 2017)
 """
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
-
 from tensorflow.python.keras import backend
 from tensorflow.python.keras.applications import imagenet_utils
 from tensorflow.python.keras.engine import training
